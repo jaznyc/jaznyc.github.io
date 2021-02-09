@@ -1,0 +1,12 @@
+body {
+  background-color: whitesmoke;
+}
+
+#welcome {
+  display: flex;
+  justify-content: center;
+}
+
+#inside {
+  justify-self: center;
+}
